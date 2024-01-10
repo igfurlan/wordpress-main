@@ -14,7 +14,7 @@ spec:
     namespace: wordpress
   project: default  
   source:
-    repoURL: 'git@github.com:igfurlan/wordpress-main.git'
+    repoURL: 'https://github.com/igfurlan/wordpress-main.git'
     path: mysql-wordpress-helm
     targetRevision: HEAD
     helm:
